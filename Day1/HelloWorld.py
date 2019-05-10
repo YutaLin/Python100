@@ -5,4 +5,7 @@ Author: Yuta
 """
 
 print('Hello, world')
-#print("你好, 世界")
+#print("Hello, world")
+
+print('Hello', 'World', sep=', ', end= '!')
+print('Goodbye, world', end= '!\n')
