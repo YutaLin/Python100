@@ -12,6 +12,6 @@ while True:
     else:
         print('Bingo!')
         break
-print('Total guess time:%d次' % counter)
+print('Total guess time:%d time(s)' % counter)
 if counter > 7:
     print('You need to improve your guessing skill')
