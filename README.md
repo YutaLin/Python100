@@ -11,3 +11,5 @@ Day4: For loop and While statement
 Day5: Function
 
 Day6: Data Structure(string, list, tuple, set, tuple)
+
+Day7: Object Oriented Programming
